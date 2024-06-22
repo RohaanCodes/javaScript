@@ -1,0 +1,12 @@
+ execution cycle of java script 
+ 
+ memeory phase => all the varibles got spce / memory in the ram / all the variables got undefined => and the functions body just got written in the memory
+ 
+ execution phase / all the variables got executed values assigned to them and functions exectues
+ 
+ 
+ global level (scope)
+ 
+ we have a call stack in the call stack there are functions that execute
+ 
+ call stack have a golbal scope at the bottom they always exist there 
